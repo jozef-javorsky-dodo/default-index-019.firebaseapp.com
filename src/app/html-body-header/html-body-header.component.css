@@ -1,0 +1,24 @@
+#html-body-header-heading {
+    margin: 0 0 3mm 55mm;
+    border: 1mm solid rgb(0, 0, 0);
+    border-radius: 4mm;
+    box-shadow: 0 0 2mm 2mm rgb(244, 244, 244);
+    display: inline-block;
+    padding: 1mm 3mm 1mm 3mm;
+    color: rgba(0, 0, 0, 1.0) !important;
+}
+
+#s-0 {
+    color: rgba(244, 122, 122, 1.0) !important;
+    background-color: rgb(0, 0, 0);
+}
+
+#s-1 {
+    color: rgba(122, 244, 122, 1.0) !important;
+    background-color: rgb(0, 0, 0);
+}
+
+#s-2 {
+    color: rgba(122, 122, 244, 1.0) !important;
+    background-color: rgb(0, 0, 0);
+}
